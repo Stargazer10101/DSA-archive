@@ -1,4 +1,4 @@
-# Curating a Concise Set of Questions for DSA Practice
+# Curating a Concise Set of Questions (along with my implementation) for DSA Practice
 
 ## 📌 Introduction
 This repository aims to provide a well-structured and concise set of questions for practicing Data Structures and Algorithms (DSA). The questions are carefully selected to cover fundamental concepts, commonly asked interview problems, and important coding patterns.
